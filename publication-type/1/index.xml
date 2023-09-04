@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Xuan Xiong</title>
+    <link>https://example.com/publication-type/1/</link>
+      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Sep 2023 09:50:25 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://example.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Neural Map for Autonomous Driving (CVPR 2023)</title>
+      <link>https://example.com/publication/neural-map-for-autonomous-driving/</link>
+      <pubDate>Mon, 04 Sep 2023 09:50:25 +0000</pubDate>
+      <guid>https://example.com/publication/neural-map-for-autonomous-driving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RangeDet:In Defense of Range View for LiDAR-based 3D Object Detection (ICCV 2021)</title>
+      <link>https://example.com/publication/rangedet-in-defense-of-range-view-for-lidar-based-3d-object-detection/</link>
+      <pubDate>Mon, 04 Sep 2023 09:43:12 +0000</pubDate>
+      <guid>https://example.com/publication/rangedet-in-defense-of-range-view-for-lidar-based-3d-object-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
