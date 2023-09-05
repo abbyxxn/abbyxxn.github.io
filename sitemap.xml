@@ -6,39 +6,39 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication-type/1/</loc>
-    <lastmod>2023-09-04T09:50:25+00:00</lastmod>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/cvpr2023/</loc>
-    <lastmod>2023-09-04T09:50:25+00:00</lastmod>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/neural-map-for-autonomous-driving/</loc>
-    <lastmod>2023-09-04T09:50:25+00:00</lastmod>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication_types/</loc>
-    <lastmod>2023-09-04T09:50:25+00:00</lastmod>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/</loc>
-    <lastmod>2023-09-04T09:50:25+00:00</lastmod>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2023-09-04T09:50:25+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/iccv2021/</loc>
-    <lastmod>2023-09-04T09:43:12+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/rangedet-in-defense-of-range-view-for-lidar-based-3d-object-detection/</loc>
-    <lastmod>2023-09-04T09:43:12+00:00</lastmod>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/iccv2021/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/rangedet-in-defense-of-range-view-for-lidar-based-3d-object-detection/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/admin/</loc>
